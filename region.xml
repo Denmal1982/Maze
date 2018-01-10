@@ -1,0 +1,392 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Vasiliy</Author>
+  <LastAuthor>Vasiliy</LastAuthor>
+  <Created>2018-01-10T06:32:50Z</Created>
+  <LastSaved>2018-01-10T06:14:41Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9564</WindowHeight>
+  <WindowWidth>23232</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="region">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="83" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="319.79999999999995"/>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Адыгея (Адыгея)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Алтай</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Башкортостан</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Бурятия</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Дагестан</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Ингушетия</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Кабардино-Балкарская Республика</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Калмыкия</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Карачаево-Черкесская Республика</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Карелия</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Коми</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Марий Эл</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Мордовия</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Саха (Якутия)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Северная Осетия - Алания</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Татарстан (Татарстан)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Тыва</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">Удмуртская Республика</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Хакасия</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">Чеченская Республика</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">Чувашская Республика - Чувашия</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">Алтайский край</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="String">Забайкальский край</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="String">Камчатский край</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">Краснодарский край</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="String">Красноярский край</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">Пермский край</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="String">Приморский край</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">Ставропольский край</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">Хабаровский край</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="String">Амурская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="String">Архангельская область; Ненецкий автономный округ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">Астраханская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="String">Белгородская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">Брянская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="String">Владимирская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="String">Волгоградская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="String">Вологодская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell><Data ss:Type="String">Воронежская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="String">Ивановская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="String">Иркутская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="String">Калининградская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="String">Калужская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="String">Кемеровская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String">Кировская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="String">Костромская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String">Курганская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String">Курская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String">Липецкая область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String">Магаданская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String">Мурманская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String">Нижегородская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String">Новгородская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String">Новосибирская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String">Омская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="String">Оренбургская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="String">Орловская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String">Пензенская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="String">Псковская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="String">Ростовская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="String">Рязанская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">64</Data></Cell>
+    <Cell><Data ss:Type="String">Самарская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="String">Саратовская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="String">Сахалинская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="String">Свердловская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="String">Смоленская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="String">Тамбовская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="String">Тверская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="String">Томская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell><Data ss:Type="String">Тульская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="String">Тюменская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell><Data ss:Type="String">Ульяновская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="String">Челябинская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell><Data ss:Type="String">Ярославская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">77</Data></Cell>
+    <Cell><Data ss:Type="String">г. Москва; Московская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="String">г. Санкт-Петербург; Ленинградская область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">79</Data></Cell>
+    <Cell><Data ss:Type="String">Еврейская автономная область</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">81</Data></Cell>
+    <Cell><Data ss:Type="String">Ханты-Мансийский автономный округ - Югра</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">82</Data></Cell>
+    <Cell><Data ss:Type="String">Чукотский автономный округ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">83</Data></Cell>
+    <Cell><Data ss:Type="String">Ямало-Ненецкий автономный округ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="String">Республика Крым и г. Севастополь</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">777</Data></Cell>
+    <Cell><Data ss:Type="String">Казахстан</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">840</Data></Cell>
+    <Cell><Data ss:Type="String">Абхазия</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>77</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
